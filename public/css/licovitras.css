@@ -1,0 +1,66 @@
+.voyager .navbar.navbar-default {
+    border-bottom: 0;
+    border-top:0;
+    box-shadow: 0 0 0;
+    background: hsl(213, 61%, 42%);
+}
+
+.voyager .btn.btn-success {
+    background: #1354a5;
+    color: #fff;
+    border: 0;
+    border-radius: 25px;
+    opacity: .9;
+}
+
+.voyager .btn.btn-danger {
+    color: #fff;
+    border: 0;
+    border-radius: 25px;
+    opacity: .9;
+}
+
+.voyager .btn.btn-primary {
+    color: #fff;
+    border: 0;
+    border-radius: 25px;
+    opacity: .9;
+}
+
+.voyager .btn.btn-warning {
+    color: #fff;
+    border: 0;
+    border-radius: 25px;
+    opacity: .9;
+}
+
+.voyager .table>thead>tr>th {
+    border-color: #eaeaea;
+    background: #2a65ae;
+}
+
+.table>tfoot>tr>th, .table>thead>tr>th {
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.voyager .panel {
+    margin-bottom: 22px;
+    background-color: #fff;
+    border: 1px solid #c3d1e2;
+    border-radius: 4px;
+    box-shadow: 0 2px 10px rgba(0,0,0,.05);
+}
+
+header {
+    background: #0b2a4e;
+    border-color: #22A7F0;
+}
+
+.voyager .side-menu.sidebar-inverse {
+    background: #2a65ac;
+    background: linear-gradient(45deg,#2a65ac,#21292e);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2a65ac",endColorstr="#21292e",GradientType=1);
+
+}
+
